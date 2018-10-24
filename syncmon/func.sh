@@ -1,3 +1,5 @@
+#!/bin/bash
+
 source var.sh
 
 # Get information about the manufacturer, the model, the serial number, etc.

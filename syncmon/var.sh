@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Define variables foer the hostname, the name of the documentation file, the OS, and the kernel
 hostVar=$(hostname)
 docName=$(hostname)-doc.md

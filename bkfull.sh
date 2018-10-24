@@ -1,4 +1,5 @@
-!#/bin/bash
+#!/bin/bash
+
 # A simple script to backup to a remote server using rsync and record it. This will later be replaced with duplicity (http://duplicity.nongnu.org/)
 
 # What to backup, to where, using which user on the server with what ssh port

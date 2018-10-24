@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Script to be run on boot to collect information that should not be changing between reboots like system hardware and kernel/hostname
 
 source var.sh
